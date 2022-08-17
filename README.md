@@ -3,7 +3,8 @@
 Play & Earn Game where users leverage their cricketing knowledge to earn money
 
 
-# this project was made during the tezaisa-hackathon
+## this project was made during the tezaisa-hackathon
+Deployed at: [https://pronftleague.herokuapp.com/](https://pronftleague.herokuapp.com/)
 
 ## Features
 
