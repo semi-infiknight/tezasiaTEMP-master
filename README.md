@@ -3,7 +3,7 @@
 Play & Earn Game where users leverage their cricketing knowledge to earn money
 
 
-
+# this project was made during the tezaisa-hackathon
 
 ## Features
 
@@ -52,8 +52,9 @@ Play & Earn Game where users leverage their cricketing knowledge to earn money
 
 - [@canbethegodfatherofyourlife]
 - [@Anushkagupta1612]
+- [@semi-infiknight]
 
-## Editor and Contributor [@semi-infiknight]
+## Editor and Contributor 
 
 
 ## Installation
@@ -99,4 +100,4 @@ Start the server
 
 
 
-#this project was made during the tezaisa-hackathon
+# this project was made during the tezaisa-hackathon
